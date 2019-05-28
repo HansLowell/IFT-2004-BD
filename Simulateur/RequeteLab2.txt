@@ -1,0 +1,32 @@
+group: Livres
+
+LIVRE = {
+	NO:number, TITRE:string, NB_INVENTAIRE:number, MTN_PRIX_VENTE:number
+	001,'Les bases de données en folie',51,150
+	002,'Informatique pour les nuls',125,99
+	003,'La bible du bit',10,350
+	004,'Un clavier pour tous',1,15
+}
+
+MAISON_EDITION = {
+ NO_MAISON:number, NOM_MAI:string, TEL_MAI:number, COURRIEL_MAI:string
+ 001,'Webster',5552222,'info@Webster.com'
+ 002,'Eyrolles',8383132,'info@Eyrolles.com'
+ 003,'Les incroyables',4188917,'info@incroyable.com'
+}
+
+ACHAT = {
+	NO_MAISON:number, NO_LIVRE:number, MTN_PRIX_ACH:number, DATE_ACH:date
+	001, 002, 130, 2018-04-02
+	003, 003, 230, 2017-01-01
+	002, 004, 8, 2019-05-01
+	001, 002, 110, 2019-03-01
+}
+
+CLIENT = {
+	NO_CLIENT:number, NOM_CLI:string, TEL_CLI:number, COURRIEL_CLI:string
+	0001, 'Louis-Thomas Vachon', 5528022, 'Lvachon@gmail.com'
+	0002, 'Julie Tremblay', 8887071, 'jTremblay@gmail.com'
+	0003, 'Jules Girard', 1234567, 'Girard@gmail.com'
+	0004, 'Suzie Dupain', 2225566, 'Dupain@gmail.com'
+}
