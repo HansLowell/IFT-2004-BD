@@ -1,0 +1,12 @@
+Débutant: https://www.w3schools.com/sql/exercise.asp?filename=exercise_select1
+Intermediaire: https://fxjollois.github.io/cours-sql/
+
+Stanford Requetes de sélection: https://lagunita.stanford.edu/courses/DB/SQL/SelfPaced/courseware/ch-sql/seq-exercise-sql_movie_query_core/
+Stanford Requetes de sélection Extra: https://lagunita.stanford.edu/courses/DB/SQL/SelfPaced/courseware/ch-sql/seq-exercise-sql_movie_query_extra/
+Stanford Requetes de sélection https://lagunita.stanford.edu/courses/DB/SQL/SelfPaced/courseware/ch-sql/seq-exercise-sql_social_query_core/
+Stanford Requetes de sélection https://lagunita.stanford.edu/courses/DB/SQL/SelfPaced/courseware/ch-sql/seq-exercise-sql_social_query_extra/
+
+Stanford Requete de modification https://lagunita.stanford.edu/courses/DB/SQL/SelfPaced/courseware/ch-sql/seq-exercise-sql_movie_mod/
+Stanford Requete de modification https://lagunita.stanford.edu/courses/DB/SQL/SelfPaced/courseware/ch-sql/seq-exercise-sql_social_mod/
+
+Stanford Requete de modification de vues: https://lagunita.stanford.edu/courses/DB/Views/SelfPaced/courseware/ch-views/seq-exercise-viewmod/
