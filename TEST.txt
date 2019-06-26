@@ -5,4 +5,14 @@ Ceci est un test.
 
 
 
+<<<<<<< Updated upstream
 1: Test1
+=======
+
+
+
+
+
+
+Test2
+>>>>>>> Stashed changes
