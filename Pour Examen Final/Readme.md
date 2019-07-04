@@ -6,10 +6,14 @@ deck:"IFT-2004 Final" tag: (nom du tag)
 
 Les tags sont:
 
-1 - PL/SQL
-2 - Denormalisation
-3 - PHP
-4 - Index
-5 - Surveillance Système
+PL/SQL
+
+Denormalisation
+
+PHP
+
+Index
+
+Surveillance Système
 
 à Venir: Transaction
